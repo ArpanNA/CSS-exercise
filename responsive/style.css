@@ -6,7 +6,7 @@
     padding: 4px;
     border: 4px solid rgb(186, 153, 156);
     background-color: rgb(69, 72, 65) ;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-template-rows: repeat(2, 2fr);
 }
 .grid-item{
